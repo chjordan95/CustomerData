@@ -1,0 +1,12 @@
+C:\Users\Stefan\Downloads\customerDataV0.7\customerData\CustomerLibrary\bin\Release\CustomerLibrary.dll
+C:\Users\Stefan\Downloads\customerDataV0.7\customerData\CustomerLibrary\bin\Release\CustomerLibrary.pdb
+C:\Users\Stefan\Downloads\customerDataV0.7\customerData\CustomerLibrary\bin\Release\de\CustomerLibrary.resources.dll
+C:\Users\Stefan\Downloads\customerDataV0.7\customerData\CustomerLibrary\bin\Release\en\CustomerLibrary.resources.dll
+C:\Users\Stefan\Downloads\customerDataV0.7\customerData\CustomerLibrary\obj\Release\CustomerLibrary.Properties.Resources.resources
+C:\Users\Stefan\Downloads\customerDataV0.7\customerData\CustomerLibrary\obj\Release\CustomerLibrary.Properties.Resources.de.resources
+C:\Users\Stefan\Downloads\customerDataV0.7\customerData\CustomerLibrary\obj\Release\CustomerLibrary.Properties.Resources.en.resources
+C:\Users\Stefan\Downloads\customerDataV0.7\customerData\CustomerLibrary\obj\Release\CustomerLibrary.csproj.GenerateResource.Cache
+C:\Users\Stefan\Downloads\customerDataV0.7\customerData\CustomerLibrary\obj\Release\de\CustomerLibrary.resources.dll
+C:\Users\Stefan\Downloads\customerDataV0.7\customerData\CustomerLibrary\obj\Release\en\CustomerLibrary.resources.dll
+C:\Users\Stefan\Downloads\customerDataV0.7\customerData\CustomerLibrary\obj\Release\CustomerLibrary.dll
+C:\Users\Stefan\Downloads\customerDataV0.7\customerData\CustomerLibrary\obj\Release\CustomerLibrary.pdb
